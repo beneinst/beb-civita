@@ -66,16 +66,16 @@ Uri: http://localhost:8080/?p=1&replytocom=1
 File Name: D:\Siti GitHub\localhost\index-11.htm
 Content Type: text/html
 
-Uri: http://localhost:8080/?page_id=31
+Uri: http://localhost:8080/?page_id=139
+File Name: D:\Siti GitHub\localhost\index-4.htm
+Content Type: text/html
+
+Uri: http://localhost:8080/?page_id=145
 File Name: D:\Siti GitHub\localhost\index-5.htm
 Content Type: text/html
 
 Uri: http://localhost:8080/?page_id=34
 File Name: D:\Siti GitHub\localhost\index-3.htm
-Content Type: text/html
-
-Uri: http://localhost:8080/?page_id=36
-File Name: D:\Siti GitHub\localhost\index-4.htm
 Content Type: text/html
 
 Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F
@@ -90,11 +90,19 @@ Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http
 File Name: D:\Siti GitHub\localhost\index-15.php
 Content Type: text/xml
 
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D31
+Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D139
+File Name: D:\Siti GitHub\localhost\index-8.php
+Content Type: application/json
+
+Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D139&format=xml
+File Name: D:\Siti GitHub\localhost\index-9.php
+Content Type: text/xml
+
+Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D145
 File Name: D:\Siti GitHub\localhost\index-11.php
 Content Type: application/json
 
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D31&format=xml
+Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D145&format=xml
 File Name: D:\Siti GitHub\localhost\index-12.php
 Content Type: text/xml
 
@@ -104,14 +112,6 @@ Content Type: application/json
 
 Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D34&format=xml
 File Name: D:\Siti GitHub\localhost\index-6.php
-Content Type: text/xml
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D36
-File Name: D:\Siti GitHub\localhost\index-8.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D36&format=xml
-File Name: D:\Siti GitHub\localhost\index-9.php
 Content Type: text/xml
 
 Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F&format=xml
@@ -126,20 +126,20 @@ Uri: http://localhost:8080/index.php?rest_route=/wp/v2/categories/1
 File Name: D:\Siti GitHub\localhost\index-16.php
 Content Type: application/json
 
+Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/139
+File Name: D:\Siti GitHub\localhost\index-7.php
+Content Type: application/json
+
+Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/145
+File Name: D:\Siti GitHub\localhost\index-10.php
+Content Type: application/json
+
 Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/30
 File Name: D:\Siti GitHub\localhost\index-1.php
 Content Type: application/json
 
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/31
-File Name: D:\Siti GitHub\localhost\index-10.php
-Content Type: application/json
-
 Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/34
 File Name: D:\Siti GitHub\localhost\index-4.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/36
-File Name: D:\Siti GitHub\localhost\index-7.php
 Content Type: application/json
 
 Uri: http://localhost:8080/index.php?rest_route=/wp/v2/posts/1
