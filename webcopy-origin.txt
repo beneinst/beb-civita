@@ -1,484 +1,284 @@
-Uri: http://fonts.googleapis.com/css?family=Lato:ital%2Cwght%400%2C100%3B0%2C300%3B0%2C400%3B0%2C700%3B0%2C900%3B1%2C100%3B1%2C300%3B1%2C400%3B1%2C700%3B1%2C900&subset=latin%2Clatin-ext
-File Name: D:\Siti GitHub\localhost\css
+Uri: http://192.168.163.128/
+File Name: D:\Siti GitHub\192.168.163.128\index.htm
+Content Type: text/html
+
+Uri: http://192.168.163.128/cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js
+File Name: D:\Siti GitHub\192.168.163.128\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css
+File Name: D:\Siti GitHub\192.168.163.128\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f.css
 Content Type: text/css
 
-Uri: http://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AUi-v.ttf
-File Name: D:\Siti GitHub\localhost\s\lato\v24\S6u8w4BMUTPHh30AUi-v.ttf
+Uri: http://192.168.163.128/camere.html
+File Name: D:\Siti GitHub\192.168.163.128\camere.html
+Content Type: text/html
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/animate.min.css?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/dynamic-content.css?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\dynamic-content.css
+Content Type: text/css
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\font-awesome-6.min.css
+Content Type: text/css
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
+Content Type: text/css
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/magnific-popup.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
+Content Type: text/css
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/addons/image.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\addons\image.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/addons/text_block.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\addons\text_block.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/common.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\common.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/dynamic-content.js?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\dynamic-content.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?2abb743fdfce533d33d8c0eb7ff5cefb
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
+Content Type: text/javascript
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400-6.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAUi-v.ttf
-File Name: D:\Siti GitHub\localhost\s\lato\v24\S6u8w4BMUTPHjxsAUi-v.ttf
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400-6.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400-6.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwaPHA.ttf
-File Name: D:\Siti GitHub\localhost\s\lato\v24\S6u9w4BMUTPHh50XSwaPHA.ttf
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400-6.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900-6.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPHA.ttf
-File Name: D:\Siti GitHub\localhost\s\lato\v24\S6u9w4BMUTPHh6UVSwaPHA.ttf
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900-6.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-v4compatibility.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwaPHA.ttf
-File Name: D:\Siti GitHub\localhost\s\lato\v24\S6u9w4BMUTPHh7USSwaPHA.ttf
+Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-v4compatibility.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.163.128/contatti.html
+File Name: D:\Siti GitHub\192.168.163.128\contatti.html
+Content Type: text/html
+
+Uri: http://192.168.163.128/images/2025/05/16/299798-civita12re.jpg
+File Name: D:\Siti GitHub\192.168.163.128\images\2025\05\16\299798-civita12re.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.128/images/299799-civitacod.jpg
+File Name: D:\Siti GitHub\192.168.163.128\images\299799-civitacod.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.128/images/299799-civitacod2.jpg
+File Name: D:\Siti GitHub\192.168.163.128\images\299799-civitacod2.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.128/images/componenti/fonts/AncizarSerif-Black.ttf
+File Name: D:\Siti GitHub\192.168.163.128\images\componenti\fonts\AncizarSerif-Black.ttf
 Content Type: font/ttf
 
-Uri: http://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwWw.ttf
-File Name: D:\Siti GitHub\localhost\s\lato\v24\S6uyw4BMUTPHjxAwWw.ttf
+Uri: http://192.168.163.128/images/componenti/fonts/TitilliumWeb-Regular.ttf
+File Name: D:\Siti GitHub\192.168.163.128\images\componenti\fonts\TitilliumWeb-Regular.ttf
 Content Type: font/ttf
 
-Uri: http://localhost:8080/
-File Name: D:\Siti GitHub\localhost\index.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/legacy/js/jquery-noconflict.min.js?504da4
+File Name: D:\Siti GitHub\192.168.163.128\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?cat=1
-File Name: D:\Siti GitHub\localhost\index-8.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/system/js/core.min.js?2cb912
+File Name: D:\Siti GitHub\192.168.163.128\media\system\js\core.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?feed=comments-rss2
-File Name: D:\Siti GitHub\localhost\index-2.htm
-Content Type: application/rss+xml
+Uri: http://192.168.163.128/media/system/js/messages.min.js?9a4811
+File Name: D:\Siti GitHub\192.168.163.128\media\system\js\messages.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?feed=rss2
-File Name: D:\Siti GitHub\localhost\index-1.htm
-Content Type: application/rss+xml
+Uri: http://192.168.163.128/media/system/js/showon.min.js?e51227
+File Name: D:\Siti GitHub\192.168.163.128\media\system\js\showon.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?feed=rss2&cat=1
-File Name: D:\Siti GitHub\localhost\index-12.htm
-Content Type: application/rss+xml
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/alert.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\alert.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?feed=rss2&p=1
-File Name: D:\Siti GitHub\localhost\index-10.htm
-Content Type: application/rss+xml
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/button.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\button.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?m=2025
-File Name: D:\Siti GitHub\localhost\index-9.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/carousel.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\carousel.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?m=202505
-File Name: D:\Siti GitHub\localhost\index-6.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/collapse.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\collapse.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?p=1
-File Name: D:\Siti GitHub\localhost\index-7.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/dropdown.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\dropdown.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?p=1&replytocom=1
-File Name: D:\Siti GitHub\localhost\index-11.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/modal.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\modal.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?page_id=139
-File Name: D:\Siti GitHub\localhost\index-4.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/offcanvas.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\offcanvas.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?page_id=145
-File Name: D:\Siti GitHub\localhost\index-5.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/popover.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\popover.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/?page_id=34
-File Name: D:\Siti GitHub\localhost\index-3.htm
-Content Type: text/html
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/scrollspy.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\scrollspy.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F
-File Name: D:\Siti GitHub\localhost\index-2.php
-Content Type: application/json
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/tab.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\tab.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fp%3D1
-File Name: D:\Siti GitHub\localhost\index-14.php
-Content Type: application/json
+Uri: http://192.168.163.128/media/vendor/bootstrap/js/toast.min.js?5.3.3
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\toast.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fp%3D1&format=xml
-File Name: D:\Siti GitHub\localhost\index-15.php
-Content Type: text/xml
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D139
-File Name: D:\Siti GitHub\localhost\index-8.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D139&format=xml
-File Name: D:\Siti GitHub\localhost\index-9.php
-Content Type: text/xml
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D145
-File Name: D:\Siti GitHub\localhost\index-11.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D145&format=xml
-File Name: D:\Siti GitHub\localhost\index-12.php
-Content Type: text/xml
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D34
-File Name: D:\Siti GitHub\localhost\index-5.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F%3Fpage_id%3D34&format=xml
-File Name: D:\Siti GitHub\localhost\index-6.php
-Content Type: text/xml
-
-Uri: http://localhost:8080/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Flocalhost:8080%2F&format=xml
-File Name: D:\Siti GitHub\localhost\index-3.php
-Content Type: text/xml
-
-Uri: http://localhost:8080/index.php?rest_route=/
-File Name: D:\Siti GitHub\localhost\index.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/categories/1
-File Name: D:\Siti GitHub\localhost\index-16.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/139
-File Name: D:\Siti GitHub\localhost\index-7.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/145
-File Name: D:\Siti GitHub\localhost\index-10.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/30
-File Name: D:\Siti GitHub\localhost\index-1.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/pages/34
-File Name: D:\Siti GitHub\localhost\index-4.php
-Content Type: application/json
-
-Uri: http://localhost:8080/index.php?rest_route=/wp/v2/posts/1
-File Name: D:\Siti GitHub\localhost\index-13.php
-Content Type: application/json
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/clipArt/services/shape1.png
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\clipArt\services\shape1.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/clipArt/services/shape2.png
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\clipArt\services\shape2.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/clipArt/services/shape3.png
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\clipArt\services\shape3.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/clipArt/services/shape4.png
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\clipArt\services\shape4.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/icon_gif/footer-above-info/avatar-calm-approved.gif
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\icon_gif\footer-above-info\avatar-calm-approved.gif
-Content Type: image/gif
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/icon_gif/footer-above-info/gift.gif
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\icon_gif\footer-above-info\gift.gif
-Content Type: image/gif
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/icon_gif/footer-above-info/shield-security.gif
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\icon_gif\footer-above-info\shield-security.gif
-Content Type: image/gif
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/icon_gif/footer-above-info/truck-delivery.gif
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\icon_gif\footer-above-info\truck-delivery.gif
-Content Type: image/gif
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/product/product_bg.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\product\product_bg.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/services/service01.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\services\service01.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/services/service02.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\services\service02.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/services/service03.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\services\service03.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/services/service04.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\services\service04.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/slider/img01.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\slider\img01.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/slider/img02.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\slider\img02.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/appetizer/images/slider/img03.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\appetizer\images\slider\img03.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/plugins/burger-companion/inc/rasam/images/logo.png
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\burger-companion\inc\rasam\images\logo.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.4
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\css\frontend.min.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=15d54d
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
 Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=cbcf42
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
 Content Type: font/woff2
 
-Uri: http://localhost:8080/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
-File Name: D:\Siti GitHub\localhost\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
-Content Type: font/woff
+Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=262525
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/animate.min.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\animate.min.css
+Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=896727
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=269f97
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=4a6591
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.163.128/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\joomla-custom-elements\css\joomla-alert.min.css
 Content Type: text/css
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/bootstrap.min.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\bootstrap.min.css
-Content Type: text/css
+Uri: http://192.168.163.128/media/vendor/jquery/js/jquery.min.js?3.7.1
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\jquery\js\jquery.min.js
+Content Type: text/javascript
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/classic-menu.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\classic-menu.css
-Content Type: text/css
+Uri: http://192.168.163.128/menù.html
+File Name: D:\Siti GitHub\192.168.163.128\menù.html
+Content Type: text/html
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/editor-style.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\editor-style.css
-Content Type: text/css
+Uri: http://192.168.163.128/servizi.html
+File Name: D:\Siti GitHub\192.168.163.128\servizi.html
+Content Type: text/html
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/main.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\main.css
-Content Type: text/css
+Uri: http://192.168.163.128/templates/shaper_helixultimate/images/favicon.ico
+File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\images\favicon.ico
+Content Type: image/x-icon
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/owl.carousel.min.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\owl.carousel.min.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/responsive.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\responsive.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/widgets.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\widgets.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/css/woo.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\css\woo.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/images/breadcrumbg.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\images\breadcrumbg.jpg
+Uri: http://192.168.163.128/templates/shaper_helixultimate/images/menu-bg.jpg
+File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\images\menu-bg.jpg
 Content Type: image/jpeg
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/images/clipArt/blog/shape5.png
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\images\clipArt\blog\shape5.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/images/clipArt/blog/shape6.png
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\images\clipArt\blog\shape6.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/images/footer/footer_bg.jpg
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\images\footer\footer_bg.jpg
-Content Type: image/jpeg
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/images/hr-line-default.png
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\images\hr-line-default.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/images/hr-line-white.png
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\images\hr-line-white.png
-Content Type: image/png
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/bootstrap.min.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\bootstrap.min.js
+Uri: http://192.168.163.128/templates/shaper_helixultimate/js/lazysizes.min.js
+File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\js\lazysizes.min.js
 Content Type: text/javascript
 
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/custom.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\custom.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/homepage/slider.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\homepage\slider.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/owl.carousel.min.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\owl.carousel.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/popper.min.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\popper.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/theme.min.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\theme.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/assets/js/wow.min.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\assets\js\wow.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-content/themes/appetizer/style.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-content\themes\appetizer\style.css
+Uri: http://fonts.googleapis.com/css?family=Titillium Web:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
+File Name: D:\Siti GitHub\192.168.163.128\css
 Content Type: text/css
 
-Uri: http://localhost:8080/wp-content/uploads/2025/05/logo.png
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\2025\05\logo.png
-Content Type: image/png
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/css/post-33.css?ver=1747123805
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\css\post-33.css
-Content Type: text/css
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1746975914
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\css\roboto.css
-Content Type: text/css
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1746975924
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
-Content Type: text/css
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
-Content Type: font/woff2
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
-Content Type: font/woff2
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
-Content Type: font/woff2
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
-Content Type: font/woff2
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
-Content Type: font/woff2
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
-Content Type: font/woff2
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+Content Type: font/ttf
 
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
-File Name: D:\Siti GitHub\localhost\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
-Content Type: font/woff2
-
-Uri: http://localhost:8080/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-includes\css\dist\block-library\style.min.css
-Content Type: text/css
-
-Uri: http://localhost:8080/wp-includes/js/comment-reply.min.js?ver=6.8.1
-File Name: D:\Siti GitHub\localhost\wp-includes\js\comment-reply.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
-File Name: D:\Siti GitHub\localhost\wp-includes\js\jquery\jquery-migrate.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
-File Name: D:\Siti GitHub\localhost\wp-includes\js\jquery\jquery.min.js
-Content Type: text/javascript
-
-Uri: http://localhost:8080/xmlrpc.php?rsd
-File Name: D:\Siti GitHub\localhost\xmlrpc.php
-Content Type: text/xml
-
-Uri: https://secure.gravatar.com/avatar/8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd?s=32&d=mm&r=g
-File Name: D:\Siti GitHub\localhost\avatar\8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd.png
-Content Type: image/png
-
-Uri: https://secure.gravatar.com/avatar/8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd?s=64&d=mm&r=g
-File Name: D:\Siti GitHub\localhost\avatar\8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd-1.png
-Content Type: image/png
+Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+Content Type: font/ttf
 
