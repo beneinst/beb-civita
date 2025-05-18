@@ -1,284 +1,284 @@
 Uri: http://192.168.163.128/
-File Name: D:\Siti GitHub\192.168.163.128\index.htm
+File Name: D:\Siti GitHub\192.168.163.128\index-1.htm
 Content Type: text/html
 
 Uri: http://192.168.163.128/cache/com_templates/templates/shaper_helixultimate/a389b878476f072b6c51a2d1962afb96.js
-File Name: D:\Siti GitHub\192.168.163.128\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96.js
+File Name: D:\Siti GitHub\192.168.163.128\cache\com_templates\templates\shaper_helixultimate\a389b878476f072b6c51a2d1962afb96-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/cache/com_templates/templates/shaper_helixultimate/fb817c72c8b2deba9a3408628bfaf71f.css
-File Name: D:\Siti GitHub\192.168.163.128\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f.css
+File Name: D:\Siti GitHub\192.168.163.128\cache\com_templates\templates\shaper_helixultimate\fb817c72c8b2deba9a3408628bfaf71f-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/camere.html
-File Name: D:\Siti GitHub\192.168.163.128\camere.html
+File Name: D:\Siti GitHub\192.168.163.128\camere-1.html
 Content Type: text/html
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/animate.min.css?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\animate.min.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\animate.min-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/dynamic-content.css?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\dynamic-content.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\dynamic-content-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/font-awesome-6.min.css?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\font-awesome-6.min.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\font-awesome-6.min-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\font-awesome-v4-shims-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/magnific-popup.css
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\magnific-popup.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\magnific-popup-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/css/sppagebuilder.css?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\sppagebuilder.css
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\css\sppagebuilder-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/addons/image.js
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\addons\image.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\addons\image-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/addons/text_block.js
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\addons\text_block.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\addons\text_block-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/common.js
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\common.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\common-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/dynamic-content.js?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\dynamic-content.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\dynamic-content-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/jquery.parallax.js?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\jquery.parallax.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\jquery.parallax-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/js/sppagebuilder.js?2abb743fdfce533d33d8c0eb7ff5cefb
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\sppagebuilder.js
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\js\sppagebuilder-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400-6.ttf
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-brands-400-6.woff2
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-brands-400-6-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400-6.ttf
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-regular-400-6.woff2
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-regular-400-6-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900-6.ttf
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-solid-900-6.woff2
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-solid-900-6-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-v4compatibility.ttf
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility.ttf
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/components/com_sppagebuilder/assets/webfonts/fa-v4compatibility.woff2
-File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility.woff2
+File Name: D:\Siti GitHub\192.168.163.128\components\com_sppagebuilder\assets\webfonts\fa-v4compatibility-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/contatti.html
-File Name: D:\Siti GitHub\192.168.163.128\contatti.html
+File Name: D:\Siti GitHub\192.168.163.128\contatti-1.html
 Content Type: text/html
 
 Uri: http://192.168.163.128/images/2025/05/16/299798-civita12re.jpg
-File Name: D:\Siti GitHub\192.168.163.128\images\2025\05\16\299798-civita12re.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.128/images/299799-civitacod.jpg
-File Name: D:\Siti GitHub\192.168.163.128\images\299799-civitacod.jpg
-Content Type: image/jpeg
-
-Uri: http://192.168.163.128/images/299799-civitacod2.jpg
-File Name: D:\Siti GitHub\192.168.163.128\images\299799-civitacod2.jpg
+File Name: D:\Siti GitHub\192.168.163.128\images\2025\05\16\299798-civita12re-1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.128/images/componenti/fonts/AncizarSerif-Black.ttf
-File Name: D:\Siti GitHub\192.168.163.128\images\componenti\fonts\AncizarSerif-Black.ttf
+File Name: D:\Siti GitHub\192.168.163.128\images\componenti\fonts\AncizarSerif-Black-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/images/componenti/fonts/TitilliumWeb-Regular.ttf
-File Name: D:\Siti GitHub\192.168.163.128\images\componenti\fonts\TitilliumWeb-Regular.ttf
+File Name: D:\Siti GitHub\192.168.163.128\images\componenti\fonts\TitilliumWeb-Regular-1.ttf
 Content Type: font/ttf
 
+Uri: http://192.168.163.128/images/dytdytcy.jpg
+File Name: D:\Siti GitHub\192.168.163.128\images\dytdytcy.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.163.128/media/com_wrapper/js/iframe-height.min.js?889e53
+File Name: D:\Siti GitHub\192.168.163.128\media\com_wrapper\js\iframe-height.min.js
+Content Type: text/javascript
+
 Uri: http://192.168.163.128/media/legacy/js/jquery-noconflict.min.js?504da4
-File Name: D:\Siti GitHub\192.168.163.128\media\legacy\js\jquery-noconflict.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\legacy\js\jquery-noconflict.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/system/js/core.min.js?2cb912
-File Name: D:\Siti GitHub\192.168.163.128\media\system\js\core.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\system\js\core.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/system/js/messages.min.js?9a4811
-File Name: D:\Siti GitHub\192.168.163.128\media\system\js\messages.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\system\js\messages.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/system/js/showon.min.js?e51227
-File Name: D:\Siti GitHub\192.168.163.128\media\system\js\showon.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\system\js\showon.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/alert.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\alert.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\alert.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/button.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\button.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\button.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/carousel.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\carousel.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\carousel.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/collapse.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\collapse.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\collapse.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/dropdown.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\dropdown.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\dropdown.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/modal.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\modal.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\modal.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/offcanvas.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\offcanvas.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\offcanvas.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/popover.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\popover.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\popover.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/scrollspy.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\scrollspy.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\scrollspy.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/tab.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\tab.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\tab.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/bootstrap/js/toast.min.js?5.3.3
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\toast.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\bootstrap\js\toast.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=15d54d
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=cbcf42
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-brands-400-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=262525
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=896727
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-regular-400-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=269f97
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.ttf
 Content Type: font/ttf
 
 Uri: http://192.168.163.128/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=4a6591
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\fontawesome-free\webfonts\fa-solid-900-1.woff2
 Content Type: font/woff2
 
 Uri: http://192.168.163.128/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\joomla-custom-elements\css\joomla-alert.min.css
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\joomla-custom-elements\css\joomla-alert.min-1.css
 Content Type: text/css
 
 Uri: http://192.168.163.128/media/vendor/jquery/js/jquery.min.js?3.7.1
-File Name: D:\Siti GitHub\192.168.163.128\media\vendor\jquery\js\jquery.min.js
+File Name: D:\Siti GitHub\192.168.163.128\media\vendor\jquery\js\jquery.min-1.js
 Content Type: text/javascript
 
 Uri: http://192.168.163.128/menù.html
-File Name: D:\Siti GitHub\192.168.163.128\menù.html
+File Name: D:\Siti GitHub\192.168.163.128\menù-1.html
 Content Type: text/html
 
 Uri: http://192.168.163.128/servizi.html
-File Name: D:\Siti GitHub\192.168.163.128\servizi.html
+File Name: D:\Siti GitHub\192.168.163.128\servizi-1.html
 Content Type: text/html
 
 Uri: http://192.168.163.128/templates/shaper_helixultimate/images/favicon.ico
-File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\images\favicon.ico
+File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\images\favicon-1.ico
 Content Type: image/x-icon
 
 Uri: http://192.168.163.128/templates/shaper_helixultimate/images/menu-bg.jpg
-File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\images\menu-bg.jpg
+File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\images\menu-bg-1.jpg
 Content Type: image/jpeg
 
 Uri: http://192.168.163.128/templates/shaper_helixultimate/js/lazysizes.min.js
-File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\js\lazysizes.min.js
+File Name: D:\Siti GitHub\192.168.163.128\templates\shaper_helixultimate\js\lazysizes.min-1.js
 Content Type: text/javascript
 
 Uri: http://fonts.googleapis.com/css?family=Titillium Web:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin&display=swap
-File Name: D:\Siti GitHub\192.168.163.128\css
+File Name: D:\Siti GitHub\192.168.163.128\css-1
 Content Type: text/css
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ-1.ttf
 Content Type: font/ttf
 
 Uri: http://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
-File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+File Name: D:\Siti GitHub\192.168.163.128\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ-1.ttf
 Content Type: font/ttf
 
