@@ -94,226 +94,6 @@ Uri: http://localhost:8082/index.php?rest_route=/wp/v2/pages/85
 File Name: D:\Siti GitHub\localhost\index-13.php
 Content Type: application/json
 
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-4-0qaujRI2Pbsn1thnoy0.woff2&action=colibri_get_google_font_file&security=d58e167d16f622ed98e3c032ad87ce84
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-4.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-4-0qaujRI2Pbsn2dhnoy0.woff2&action=colibri_get_google_font_file&security=6889b069ad0d5061014c10115a3d4670
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-3.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-4-0qaujRI2Pbsn2Nhn.woff2&action=colibri_get_google_font_file&security=c87708945c0b7536408866d4647744a8
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-5.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvB_xykgxrQwc.woff2&action=colibri_get_google_font_file&security=2c9018c89b0a55fbecb63aec9609e7bf
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-10.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvB_xynQxrQwc.woff2&action=colibri_get_google_font_file&security=8000acc9beebf7c8b5475209c9018802
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-9.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2Pbsvc_pykgxrQwc.woff2&action=colibri_get_google_font_file&security=82d37c4a89ced50cf9f52c29815654a4
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-1.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2Pbsvc_pynAxr.woff2&action=colibri_get_google_font_file&security=a2106b9eab6c64ca2af3c4aa000395fd
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-2.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2Pbsvc_pynQxrQwc.woff2&action=colibri_get_google_font_file&security=6131f57e8c565e302b9769e2805a176b
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvK_tykgxrQwc.woff2&action=colibri_get_google_font_file&security=efe0550c7146d207cca4d9d8eba1a544
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-7.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvK_tynAxr.woff2&action=colibri_get_google_font_file&security=798032d4811424ad837a751016677af6
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-8.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvK_tynQxrQwc.woff2&action=colibri_get_google_font_file&security=be9218b55daac4c49160685e1d553ba8
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-6.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvY_1ykgxrQwc.woff2&action=colibri_get_google_font_file&security=185c203ef98be6bca973601ec7951e59
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-12.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvY_1ynAxr.woff2&action=colibri_get_google_font_file&security=2ec407c4e0a0f770ddb28dca992241a3
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-13.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fhalant%2Fv16%2Fu-490qaujRI2PbsvY_1ynQxrQwc.woff2&action=colibri_get_google_font_file&security=376ca09f56b8c91bc2e499b86ad1b079
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-11.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fmuli%2Fv29%2F7Au-p_0qiz-afTf2IALT8kU.woff2&action=colibri_get_google_font_file&security=e03f5d1258844648c55bc1d9a2cf23de
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-14.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fmuli%2Fv29%2F7Au-p_0qiz-afTf2IQLT8kU.woff2&action=colibri_get_google_font_file&security=e55c47f78149de620b620dd4250219e4
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-15.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fmuli%2Fv29%2F7Au-p_0qiz-afTf2LwLT.woff2&action=colibri_get_google_font_file&security=cd0e87aaaf64fad43d7922d1d1d3ac9e
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-16.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fmuli%2Fv29%2F7Auwp_0qiz-afT3GLRrX.woff2&action=colibri_get_google_font_file&security=1bf11ba6c3972e787d5506d892534b41
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-17.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fmuli%2Fv29%2F7Auwp_0qiz-afTLGLQ.woff2&action=colibri_get_google_font_file&security=dcec2fa3dc28177868c4f6728b06f2e8
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-19.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fmuli%2Fv29%2F7Auwp_0qiz-afTzGLRrX.woff2&action=colibri_get_google_font_file&security=2143e5d111f983831d691abb14f248b6
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-18.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-1aLZxxlE8uH1JG.woff2&action=colibri_get_google_font_file&security=2895307d43525d287fe9745cb64132a0
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-21.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-daLZxxlE8uH1JG.woff2&action=colibri_get_google_font_file&security=33e379d2ee07b65c33619287da019d95
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-23.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-laLZxxlE8uHw.woff2&action=colibri_get_google_font_file&security=ee1840a07a423af9cf1888419213bafa
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-24.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-RaLZxxlE8uH1JG.woff2&action=colibri_get_google_font_file&security=b9b04151439c4206dcefaa9de3a4082f
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-20.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0RMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwd-ZaLZxxlE8uH1JG.woff2&action=colibri_get_google_font_file&security=30e016600941d83c259cfdf11d0b1feb
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-22.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t4R-tQLL50tE8-Hw.woff2&action=colibri_get_google_font_file&security=89e830ad9736df0183ed6eeac14a6bf3
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-25.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t6R-tQLL50tE8-Hw.woff2&action=colibri_get_google_font_file&security=bd14e5012dc0ed8336772fda18bc18fa
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-27.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t7R-tQLL50tE8-Hw.woff2&action=colibri_get_google_font_file&security=ca3088062add4ae5504bd08975235ef7
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-28.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fnunitosans%2Fv15%2Fpe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7txR-tQLL50tE8-Hw.woff2&action=colibri_get_google_font_file&security=6d8cef6c25d67901fceee8e785399308
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-26.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2&action=colibri_get_google_font_file&security=181949aa3156f061236e0c0325524fe9
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-35.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2&action=colibri_get_google_font_file&security=7c31c71393ade57be14740faa837036d
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-37.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2&action=colibri_get_google_font_file&security=2b9604500500dd922971474a32cc7e40
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-29.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2&action=colibri_get_google_font_file&security=b4baa0a3901c98b907deaa13b8562c85
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-36.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2&action=colibri_get_google_font_file&security=33c630bb87bc98bfa0dd86d9fa8416ab
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-31.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2&action=colibri_get_google_font_file&security=e2035046097dbac65c320ee712babad9
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-33.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2&action=colibri_get_google_font_file&security=8e60e5d66c112ffcf6f1c659f74a0aea
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-32.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2&action=colibri_get_google_font_file&security=690d89f07010f0d63423fea3ed7e33d6
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-38.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2&action=colibri_get_google_font_file&security=21db2f356aae3e735fb6f762813b6932
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-30.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2&action=colibri_get_google_font_file&security=b9d15fade6cf82df40cd888e52e9a07f
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-34.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2&action=colibri_get_google_font_file&security=aa0a944f71bfdb355a4b31e699ecc742
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-43.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2&action=colibri_get_google_font_file&security=70e2e418a052004188886e443241136f
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-46.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2&action=colibri_get_google_font_file&security=6017a3646d98bf97f19ef9416a123c01
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-47.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2&action=colibri_get_google_font_file&security=decdd0902fcd677a77cd787870eb2b87
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-39.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2&action=colibri_get_google_font_file&security=cc200fa341cc2699455121195fad20a1
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-41.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2&action=colibri_get_google_font_file&security=968b36bbe66416ec46099e1ed26acedf
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-40.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2&action=colibri_get_google_font_file&security=6def99d8ce5ebf890c833aaf6339f2af
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-42.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2&action=colibri_get_google_font_file&security=2ed7a890676ba846a8df15b472de258c
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-45.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fopensans%2Fv40%2FmemvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2&action=colibri_get_google_font_file&security=28cd612b7056ce17b03230ce6c453ee6
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-44.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2&action=colibri_get_google_font_file&security=2301aaf681d48824b6be2e32b8bb3830
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-51.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2&action=colibri_get_google_font_file&security=3e1309257a79b8ace5266d8f1e3b078f
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-53.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2&action=colibri_get_google_font_file&security=62a830febda3c77bed4cedac7b17745c
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-52.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2&action=colibri_get_google_font_file&security=a45828335f35ebccd0432d25eb7f75bf
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-54.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2&action=colibri_get_google_font_file&security=7bfdafbec3bc718ceabd51e85c074aec
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-48.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2&action=colibri_get_google_font_file&security=b0fbc61de712dcc6471f835bc33e9442
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-50.php
-Content Type: font/woff2
-
-Uri: http://localhost:8082/wp-admin/admin-ajax.php?font=%2Fplayfairdisplay%2Fv37%2FnuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2&action=colibri_get_google_font_file&security=f5adcca4fca6982adad36ff5fdc0337b
-File Name: D:\Siti GitHub\localhost\wp-admin\admin-ajax-49.php
-Content Type: font/woff2
-
 Uri: http://localhost:8082/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/colibri.js?ver=1.0.332
 File Name: D:\Siti GitHub\localhost\wp-content\plugins\colibri-page-builder\extend-builder\assets\static\colibri.js
 Content Type: text/javascript
@@ -482,6 +262,46 @@ Uri: http://localhost:8082/wp-content/uploads/2025/05/cropped-299805-Civita.webp
 File Name: D:\Siti GitHub\localhost\wp-content\uploads\2025\05\cropped-299805-Civita.webp
 Content Type: image/webp
 
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/000118bf260cdbcbec7ace8be8483474.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\000118bf260cdbcbec7ace8be8483474.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/06098325ab1de85ff3dd622f3b22d7a3.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\06098325ab1de85ff3dd622f3b22d7a3.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/090c52657de6d3e8f19ec47d48d16512.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\090c52657de6d3e8f19ec47d48d16512.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/09e7e8737d82d678e5c0c64319c95d91.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\09e7e8737d82d678e5c0c64319c95d91.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/0d1fcbd5fbf7488ada8068c56b3bd2c9.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\0d1fcbd5fbf7488ada8068c56b3bd2c9.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/0ef446916ae253e94a58c590f625e600.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\0ef446916ae253e94a58c590f625e600.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/10bb68fc6aa795c5dbf1609be2df87a4.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\10bb68fc6aa795c5dbf1609be2df87a4.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/12255fbe1c23d797bd55ddc6d31a5019.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\12255fbe1c23d797bd55ddc6d31a5019.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/1725d56243e6726d0b4e595a3781077a.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\1725d56243e6726d0b4e595a3781077a.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/17fed2e889ba4ea2fbcced2251778c85.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\17fed2e889ba4ea2fbcced2251778c85.woff2
+Content Type: font/woff2
+
 Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/1a13d0a267f6306659fd418d769512bc.woff2
 File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\1a13d0a267f6306659fd418d769512bc.woff2
 Content Type: font/woff2
@@ -490,13 +310,197 @@ Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/1d1f81a
 File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\1d1f81a33afe1a251b9335a7a281cab0.woff2
 Content Type: font/woff2
 
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/22a0f51bc9cb4014d4fddca1fbf32014.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\22a0f51bc9cb4014d4fddca1fbf32014.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/26708573f91136c9bd5164d115bb7a3a.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\26708573f91136c9bd5164d115bb7a3a.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/271108866940d358f0bfb348be6866c2.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\271108866940d358f0bfb348be6866c2.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/2828c2c1998888a4bd7ea839a36d2692.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\2828c2c1998888a4bd7ea839a36d2692.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/2a838c4a8943f43eec72f8538088a9b2.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\2a838c4a8943f43eec72f8538088a9b2.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/2f33287a47d17af155454b7a385119a7.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\2f33287a47d17af155454b7a385119a7.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/379f8c096c7dc2f5aff8bafb9da22622.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\379f8c096c7dc2f5aff8bafb9da22622.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/3adbcef29b50503baffdd4bf85c6077d.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\3adbcef29b50503baffdd4bf85c6077d.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/3c791972d6fc7523eb5189d60825e54d.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\3c791972d6fc7523eb5189d60825e54d.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/429ea541c693a6f8180c0183e445ab57.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\429ea541c693a6f8180c0183e445ab57.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/43a575ac3f355723970aeecb4c3f3162.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\43a575ac3f355723970aeecb4c3f3162.woff2
+Content Type: font/woff2
+
 Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/490e215ba7cb0552c008b756bbbaf0bd.woff2
 File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\490e215ba7cb0552c008b756bbbaf0bd.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/4f2c75a078f51b7ec0aebaba74ca9768.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\4f2c75a078f51b7ec0aebaba74ca9768.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5002e3ebb5c3936f8a3161116c592c77.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5002e3ebb5c3936f8a3161116c592c77.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/52952bd39f47d65463fac3f691e1253a.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\52952bd39f47d65463fac3f691e1253a.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/540933c67b6140fd9f32347e0966f8f2.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\540933c67b6140fd9f32347e0966f8f2.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5633ba5f159d8fd2cb32c5724ff024d3.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5633ba5f159d8fd2cb32c5724ff024d3.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5703bd2b98764e92f729000b0aa24249.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5703bd2b98764e92f729000b0aa24249.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5a5dd0b935201394690212f50c04e382.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5a5dd0b935201394690212f50c04e382.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5c3f796a277c6d172c6c99b22499c601.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5c3f796a277c6d172c6c99b22499c601.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5c781237eb4f42698e0d4d445583cb20.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5c781237eb4f42698e0d4d445583cb20.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/5e6ce213fccb6f6f359d6de7f9a4707b.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\5e6ce213fccb6f6f359d6de7f9a4707b.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/641ed8bfac3c18b34cdc16fc63332704.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\641ed8bfac3c18b34cdc16fc63332704.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/70b21cd578efd627335a67b60184c155.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\70b21cd578efd627335a67b60184c155.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/7eb1a1c1b3c1d1b3cc64cb4f7a315b4e.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\7eb1a1c1b3c1d1b3cc64cb4f7a315b4e.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/844d3ab05c3d512929d4018ce1f3d8e8.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\844d3ab05c3d512929d4018ce1f3d8e8.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/88a77cecd502101115a24070187b317c.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\88a77cecd502101115a24070187b317c.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/90594ef0884b9bf0dc77facc6cf825df.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\90594ef0884b9bf0dc77facc6cf825df.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/90772c3a40a172af3886312f29ca0359.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\90772c3a40a172af3886312f29ca0359.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/97e14fd6cd8460e5874dfafa5826bc1b.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\97e14fd6cd8460e5874dfafa5826bc1b.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/9f1c788976640de52a889f3813e2b24b.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\9f1c788976640de52a889f3813e2b24b.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/b778f8a025e908d6f61c46ccb2402f7a.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\b778f8a025e908d6f61c46ccb2402f7a.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/b82565f229c103ded93e10f2f03bbdda.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\b82565f229c103ded93e10f2f03bbdda.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/c1bcf397d98c785dca9fb7505b940791.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\c1bcf397d98c785dca9fb7505b940791.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/c9476f3d0d16d6589670243641568781.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\c9476f3d0d16d6589670243641568781.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/d5ec21615998f17b159ffe3fb4f63063.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\d5ec21615998f17b159ffe3fb4f63063.woff2
 Content Type: font/woff2
 
 Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/e54a754fad9e3fe9bdfcae51a5fa037e.woff2
 File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\e54a754fad9e3fe9bdfcae51a5fa037e.woff2
 Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/eabdd11e6938dff89c35fe73577a4701.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\eabdd11e6938dff89c35fe73577a4701.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/f0509821eb77779dca1b53e13bda1bee.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\f0509821eb77779dca1b53e13bda1bee.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/f20dfa9d5db19097f1eee96a79af2cf1.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\f20dfa9d5db19097f1eee96a79af2cf1.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/f2354401b63f656715d8d661919461c2.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\f2354401b63f656715d8d661919461c2.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/f79ab4dcc2b8e65013edac7f8abba189.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\f79ab4dcc2b8e65013edac7f8abba189.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/f9397301db21c6c42dc2d3685d11b7c3.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\f9397301db21c6c42dc2d3685d11b7c3.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/fb0e5d7cd9e2b32f4d5d804686b2b9f5.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\fb0e5d7cd9e2b32f4d5d804686b2b9f5.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/fb9153f400f0b91b9f523c10c10fc92d.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\fb9153f400f0b91b9f523c10c10fc92d.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/fcf21f1bf356f7d05717969e997e2dd4.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\fcf21f1bf356f7d05717969e997e2dd4.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/colibri-google-fonts-cache/ff9bd711e24114f429949b9c5f30bbc1.woff2
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\colibri-google-fonts-cache\ff9bd711e24114f429949b9c5f30bbc1.woff2
+Content Type: font/woff2
+
+Uri: http://localhost:8082/wp-content/uploads/useanyfont/uaf.css?ver=1747653815
+File Name: D:\Siti GitHub\localhost\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
 
 Uri: http://localhost:8082/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
 File Name: D:\Siti GitHub\localhost\wp-includes\css\dist\block-library\style.min.css
@@ -521,4 +525,192 @@ Content Type: text/javascript
 Uri: http://localhost:8082/xmlrpc.php?rsd
 File Name: D:\Siti GitHub\localhost\xmlrpc.php
 Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Cardo:ital,wght@0,400;0,700;1,400&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap
+File Name: D:\Siti GitHub\localhost\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr3NEk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr3NEk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr7tAk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr7tAk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr7tEk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr7tEk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrbtEk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrbtEk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrbtYk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrbtYk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrCdYk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrCdYk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrMNYk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrMNYk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrR9Yk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrR9Yk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrsNEk2w.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDrsNEk2w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy-avBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy-avBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy2aoBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy2aoBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy5GvBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy5GvBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy7ioBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy7ioBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy7ivBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy7ivBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy9-vBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy9-vBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMywqoBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMywqoBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzioBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzioBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzipBpI.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzipBpI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN0--vAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN0--vAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN0H-vAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN0H-vAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN1w-vAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN1w-vAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN1Z-vAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN1Z-vAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN2H_fAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN2H_fAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3r_fAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3r_fAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3Z_fAQ.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3Z_fAQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvhhTv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvhhTv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvipTv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvipTv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvkZTv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvkZTv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvphUv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvphUv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvrFUv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvrFUv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvsZUv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvsZUv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ancizarserif/v5/PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvv9Uv4M.ttf
+File Name: D:\Siti GitHub\localhost\s\ancizarserif\v5\PN_nRfmxrmD9dEi_Qbtf91W17vrhxXPXDxqnV8gRvv9Uv4M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cardo/v20/wlpxgwjKBV1pqhv93IQ.ttf
+File Name: D:\Siti GitHub\localhost\s\cardo\v20\wlpxgwjKBV1pqhv93IQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cardo/v20/wlpygwjKBV1pqhND-aQR.ttf
+File Name: D:\Siti GitHub\localhost\s\cardo\v20\wlpygwjKBV1pqhND-aQR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cardo/v20/wlp_gwjKBV1pqiv_.ttf
+File Name: D:\Siti GitHub\localhost\s\cardo\v20\wlp_gwjKBV1pqiv_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPAcZTIAOhVxoMyOr9n_E7fdMbmCA.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPAcZTIAOhVxoMyOr9n_E7fdMbmCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffAzHKIw.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffAzHKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCKIw.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffEDBKIw.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffEDBKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffGjEKIw.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffGjEKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhzZg.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5zZg.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5zZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlzZg.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1zZg.ttf
+File Name: D:\Siti GitHub\localhost\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1zZg.ttf
+Content Type: font/ttf
 
