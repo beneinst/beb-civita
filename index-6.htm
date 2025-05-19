@@ -2392,6 +2392,11 @@ var colibriData = {"82-c7":{"data":{"hoverEffect":"fadeIn"}},"82-c18":{"data":{"
     src: url('beb-civita/1Font/AncizarSans-ExtraBold.ttf') format('truetype');
     font-weight: 800;
 }
+	@font-face {
+    font-family: 'Ancizar Sans';
+    src: url('https://beneinst.github.io/beb-civita/1Font/AncizarSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
 @font-face {
     font-family: 'Ancizar Sans';
     src: url('beb-civita/1Font/AncizarSans-SemiBold.ttf') format('truetype');
@@ -2410,15 +2415,29 @@ h1 {
 }
 
 /* Titoli da h2 a h5 in Semi Bold */
-h2, h3, h4, h5 {
+h2, h3 {
+    font-family: 'Ancizar Sans', sans-serif !important;
+    font-weight: 700 !important; /*  Bold */
+}
+/* Titoli da h2 a h5 in Semi Bold */
+h4, h5 {
     font-family: 'Ancizar Sans', sans-serif !important;
     font-weight: 600 !important; /* Semi Bold */
 }
 
 /* Testo normale in Regular */
-p, body, div {
+p, body, div, menu-menu-principale, colibri-menu-container {
     font-family: 'Ancizar Sans', sans-serif !important;
     font-weight: 400 !important; /* Normal */
+	line-height: 26px !important; 
+	font-size: 19.8px !important;
+
+}
+
+.h-menu .colibri-menu-container ul li a {
+     font-family: 'Ancizar Sans', sans-serif !important;
+    font-weight: 600 !important; /* Normal */
+	font-size: 16px !important;
 }
 </style>				<style>
 					#wpadminbar ul li#wp-admin-bar-colibri_top_bar_menu {
@@ -2453,55 +2472,7 @@ p, body, div {
 			.style-66.style-local-17-f5.position-relative.h-element a {
     display: none !important;    
 }
-
-@font-face {
-    font-family: 'Ancizar Sans';
-    src: url('beb-civita/1Font/AncizarSans-ExtraBold.ttf') format('truetype');
-    font-weight: 800;
-}
-@font-face {
-    font-family: 'Ancizar Sans';
-    src: url('beb-civita/1Font/AncizarSans-SemiBold.ttf') format('truetype');
-    font-weight: 600;
-}
-@font-face {
-    font-family: 'Ancizar Sans';
-    src: url('beb-civita/1Font/AncizarSans-Regular.ttf') format('truetype');
-    font-weight: 400;
-}
-
-/* Titoli h1 in Extra Bold */
-h1 {
-    font-family: 'Ancizar Sans', sans-serif !important;
-    font-weight: 800 !important; /* Extra Bold */
-}
-
-/* Titoli da h2 a h5 in Semi Bold */
-h2, h3, h4, h5 {
-    font-family: 'Ancizar Sans', sans-serif !important;
-    font-weight: 600 !important; /* Semi Bold */
-}
-
-/* Testo normale in Regular */
-p, body, div {
-    font-family: 'Ancizar Sans', sans-serif !important;
-    font-weight: 400 !important; /* Normal */
-}
-
-h1 c {
-    font-family: 'Ancizar Sans', sans-serif !important;
-    font-weight: 800 !important; /* Extra Bold */
-}
-
-h2 c, h3 c, h4 c, h5 c {
-    font-family: 'Ancizar Sans', sans-serif !important;
-    font-weight: 600 !important; /* Semi Bold */
-}
-
-p c, body c, class, div class, pc {
-    font-family: 'Ancizar Sans', sans-serif !important;
-    font-weight: 400 !important; /* Normal */
-}		</style>
+		</style>
 		    </head>
 
 <body id="colibri" class="wp-singular page-template page-template-page-templates page-template-full-width-page page-template-page-templatesfull-width-page-php page page-id-82 wp-theme-colibri-wp wp-child-theme-magnuswp colibri-theme-magnuswp">
