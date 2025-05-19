@@ -530,6 +530,10 @@ Uri: https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000
 File Name: D:\Siti GitHub\localhost\css2
 Content Type: text/css
 
+Uri: https://fonts.googleapis.com/css2?family=Ancizar+Sans:wght@100..1000&display=swap
+File Name: D:\Siti GitHub\localhost\css2-1
+Content Type: text/css
+
 Uri: https://fonts.gstatic.com/s/ancizarsans/v5/fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr3NEk2w.ttf
 File Name: D:\Siti GitHub\localhost\s\ancizarsans\v5\fC11PYtHY2vX3wj8IbE7Pxe8VRLOpqx1999L3vDr3NEk2w.ttf
 Content Type: font/ttf

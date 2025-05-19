@@ -1,0 +1,63 @@
+﻿@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzipBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy7ioBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy2aoBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzioBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMywqoBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy-avBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy9-vBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy7ivBpI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ancizar Sans';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/ancizarsans/v5/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMy5GvBpI.ttf) format('truetype');
+}
