@@ -526,6 +526,10 @@ Uri: http://localhost:8082/xmlrpc.php?rsd
 File Name: D:\Siti GitHub\localhost\xmlrpc.php
 Content Type: text/xml
 
+Uri: https://beneinst.github.io/beb-civita/1Font/AncizarSans-Bold.ttf
+File Name: D:\Siti GitHub\localhost\beb-civita\1Font\AncizarSans-Bold.ttf
+Content Type: font/ttf
+
 Uri: https://beneinst.github.io/beb-civita/1Font/AncizarSans-ExtraBold.ttf
 File Name: D:\Siti GitHub\localhost\beb-civita\1Font\AncizarSans-ExtraBold.ttf
 Content Type: font/ttf
